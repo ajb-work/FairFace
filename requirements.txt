@@ -1,0 +1,14 @@
+black
+dominate
+matplotlib
+numpy
+opencv-python==4.5.1.48
+pandas
+Pillow
+pre-commit
+pytorch-lightning==1.3.8
+scikit-learn
+wandb
+cmake
+dlib
+torchvision
